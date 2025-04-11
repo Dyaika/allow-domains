@@ -702,3 +702,4 @@ nftset=/labs.openai.com/4#inet#fw4#vpn_domains
 nftset=/ipinfo.io/4#inet#fw4#vpn_domains
 nftset=/trackyourparcel.eu/4#inet#fw4#vpn_domains
 nftset=/yummyanime.tv/4#inet#fw4#vpn_domains
+nftset=/sponsor.ajay.app/4#inet#fw4#vpn_domains
